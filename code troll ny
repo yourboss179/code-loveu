@@ -222,17 +222,17 @@
         <div class="beat"></div>
     </div>
     <div class="boxchoose">
-        <h2>LÀM BẠN GÁI A NHÉ BẤY BI</h2>
+        <h2>Cho tôi được làm người yêu của em nhé?</h2>
         <div class="listbutton">
             <button id="no">Never</button>
-            <button id="yes">Em chịu</button>
+            <button id="yes">Em đồng ý</button>
         </div>
     </div>
     <div class="popup">
         <div class="inner">
-            <h3>Anh cũng yêu em</h3>
+            <h3>Yêu em</h3>
             <img src="e:\Downloads\Ổ (C)\mocha2.gif" alt="" />
-            <p>Tối anh qua đón đi chơi <span>PHI PHAI</span> nhé bấy bi</p>
+            <p>Yêu Vìn <span>PHI PHAI</span> suốt đời</p>
         </div>
     </div>
     <script>
